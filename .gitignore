@@ -1,0 +1,29 @@
+# OSX
+#
+.DS_Store
+
+# node.js
+#
+node_modules/
+npm-debug.log
+
+# .idea
+#
+/.idea/
+
+# dist
+#
+/dist/
+
+# temp
+#
+temp/
+platforms/ios/Pods
+
+#bundlejs
+#
+platforms/ios/bundlejs
+
+#Podfile.lock
+#
+platforms/ios/Podfile.lock

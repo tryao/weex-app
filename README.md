@@ -1,2 +1,1 @@
-# weex-app
-weex-demo
+
